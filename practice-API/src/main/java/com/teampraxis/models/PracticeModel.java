@@ -14,6 +14,7 @@ public class PracticeModel {
     private String dogType;
 
     private String dogName;
+    
 
     public PracticeModel() {
     }

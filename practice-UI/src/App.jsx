@@ -6,6 +6,7 @@ function App() {
     <>
 
       <h1>TEAM PRAXIS</h1>
+      <h2>Pull test</h2>
 
     </>
   )
